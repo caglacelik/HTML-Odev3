@@ -1,0 +1,31 @@
+* {
+    background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+    color: darkslategray;
+    font-size: 18px;
+}
+
+a {
+    color: orange;
+}
+
+h1 {
+    color: darkgoldenrod;
+    font-size: 2.5rem;
+    padding: 0.1rem;
+    text-align: center;
+}
+
+h3 {
+    color: red;
+    padding: 1rem;
+}
+
+p {
+    font-size: 14px;
+}
+
+.info {
+    text-decoration: underline;
+}
